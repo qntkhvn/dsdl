@@ -1,0 +1,27 @@
+---
+title: "Project 1: Digit Recognizer"
+output: html_document
+---
+
+---
+
+###   Kaggle Description
+
+`https://www.kaggle.com/c/digit-recognizer`
+
+MNIST ("Modified National Institute of Standards and Technology") is the de facto “hello world” dataset of computer vision. Since its release in 1999, this classic dataset of handwritten images has served as the basis for benchmarking classification algorithms. As new machine learning techniques emerge, MNIST remains a reliable resource for researchers and learners alike. In this competition, your goal is to correctly identify digits from a dataset of tens of thousands of handwritten images.
+
+You must build a predictive model using a deep learning technique (neural networks, keras, tensorflow), write a report on the details of how you built your models, and post your final predictions on Kaggle. Results should be presented in a well-written report that includes a description of the problem, the results, and all of the code to generate the
+results (i.e. everything should be reproducible).
+
+---
+
+###   Report Format
+
+1. Introduction: Describe the problem. You can also add citations to others’ previous work that is related to your problem. This is almost exclusively text.
+
+2. Data/Methods: Here you describe the details of the dataset and methods that you are going to use to solve your problem. Include any initial investigation (EDA, etc) in this section.
+
+3. Results: Describe all of the interesting results that you have found. In this case, you would also include the final models that you used. This is also where you would put tables and graphs with your results.
+
+4. Discussion: Briefly restate what you did and then describe the results. It is also good to mention in this section other work that you would do in the future if you had time. This section is almost exclusively text.
